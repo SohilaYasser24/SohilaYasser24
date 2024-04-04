@@ -26,7 +26,7 @@ I love programming.
 
 ### Contact me:
 
-- LinkedIn: [![linkedin](https://img.shields.io/badge/@SohilaYasser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohila-yasser-0947452a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [![linkedin](https://img.shields.io/badge/@SohilaYasser-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohila-yasser-7640752b1)
 - X: [![X](https://img.shields.io/badge/@SohilaYasser-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/yasser_sos75844?t=vFpx9RVR5eruXIzY34Pj_Q&s=09) 
 - Facebook: [![Facebook](https://img.shields.io/badge/@SohilaYasser-0865FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003543305773&mibextid=ZbWKwL) 
 - Email: [![Email](https://img.shields.io/badge/sohilayasser24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sohilayasser24@gmail.com)
